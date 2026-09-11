@@ -525,4 +525,4 @@ Open `http://localhost:5000` in your browser. The app automatically loads the be
 
 ## License
 
-This project is provided as-is for research and educational purposes.
+This project is licensed under the [Apache License 2.0](LICENSE). See the [LICENSE](LICENSE) file for details.
